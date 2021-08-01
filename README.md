@@ -10,11 +10,11 @@
 
 - description
 
-### 2. [Sentiment Analysis](https://github.com/chaharhimanshu/sentiment_analysis)
+### 3. [Sentiment Analysis](https://github.com/chaharhimanshu/sentiment_analysis)
 
 - description
 
-### 3. [Bank Term Deposit](https://github.com/chaharhimanshu/Bank_term_deposit) 
+### 4. [Bank Term Deposit](https://github.com/chaharhimanshu/Bank_term_deposit) 
 
 - The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
