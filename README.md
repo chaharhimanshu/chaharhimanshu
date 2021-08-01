@@ -6,6 +6,10 @@
 
 - description
 
+### 2. [Music Recommender](https://github.com/chaharhimanshu/Music_Recommender)
+
+- description
+
 ### 2. [Sentiment Analysis](https://github.com/chaharhimanshu/sentiment_analysis)
 
 - description
